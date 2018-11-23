@@ -48,7 +48,7 @@ class login{
 			real_password=b;
 		}
 		void display(){
-			cout<<"\nreal ID "<<real_id;
+			cout<<"\n ID "<<real_id;
 			cout<<"\nreal Password "<<real_password;
 			cout<<"\nID "<<id;
 			cout<<"\nPassword "<<password;
